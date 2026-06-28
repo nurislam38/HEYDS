@@ -1,4 +1,10 @@
-
+{
+    "playlist_info": {
+        "name": "Bingstream Auto Update Playlist",
+        "telegram": "https://t.me/livesportsplay",
+        "owner": "Md Sohanur Rahman Hady",
+        "last_update_time": "9:16:35 AM 28-06-2026"
+    },
     "special_note": "If the stream does not play, please make sure to include the referer link with it.",
     "channels": [
         {
@@ -17,51 +23,51 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://curly-surf-da2d.hasannirob234.workers.dev/https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index_1.m3u8?referer=&ua=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20Mi%20Box%2FMiTV)%20AppleWebKit%2F537.36%20(KHTML%2C%20Joint)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F90.0.4430.210%20Safari%2F537.36"
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782702998-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-213a733bd250cd691e5d85aba1c44d20"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=9e28d69dac566e058ecce519f17a8369031f5ad7&x-sign=2047bd7ecc0eb64206862df05646fcf2&x-time=1782614760"
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=22d9c229f612b3ba4020e1e2bbe1f63e&x-time=1782616560"
                 },
                 {
                     "server_name": "Server 3",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fd/chunks.m3u8?is_vip=false&token=9e28d69dac566e058ecce519f17a8369031f5ad7&x-sign=2f6149863f31b667a7547d81242694b7&x-time=1782614760"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fd/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=c45e8dfa454f0e367e6097bbda29f0ca&x-time=1782616560"
                 },
                 {
                     "server_name": "Server 4",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fd/chunks.m3u8?is_vip=false&token=1782701203-Kv4cPTAAP5YTi-9e28d69dac566e058ecce519f17a8369031f5ad7-fd57184239c64332b90c094a4a2d2458"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fd/chunks.m3u8?is_vip=false&token=1782702999-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-4cc4044dddd21541c08b04c5e7c91b08"
                 },
                 {
                     "server_name": "Server 5",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fd-hd/chunks.m3u8?is_vip=false&token=9e28d69dac566e058ecce519f17a8369031f5ad7&x-sign=901288aa9ff67c8a8aa2d48dc7f93761&x-time=1782614760"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fd-hd/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=cdb284aecf3679cb2f996beeb8134fa5&x-time=1782616560"
                 },
                 {
                     "server_name": "Server 6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fd-hd/chunks.m3u8?is_vip=false&token=1782701204-Kv4cPTAAP5YTi-9e28d69dac566e058ecce519f17a8369031f5ad7-0242b34daaaa2854360cea100f532cc0"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fd-hd/chunks.m3u8?is_vip=false&token=1782703000-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-af9733333afbb02cb5901774bf4a7702"
                 },
                 {
                     "server_name": "Server 7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fd-cnhd/chunks.m3u8?is_vip=false&token=9e28d69dac566e058ecce519f17a8369031f5ad7&x-sign=8d8b55d2cfefb856074ac67facc0b936&x-time=1782614760"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fd-cnhd/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=911f7b12008ff5594cbb96b8def87b2e&x-time=1782616560"
                 },
                 {
                     "server_name": "Server 8",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fd-cnhd/chunks.m3u8?is_vip=false&token=1782701205-Kv4cPTAAP5YTi-9e28d69dac566e058ecce519f17a8369031f5ad7-b9ea239e73741bb6abaefeaa8acb8848"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fd-cnhd/chunks.m3u8?is_vip=false&token=1782703001-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-ff4f467bc1babf8f380b801d44110b31"
                 },
                 {
                     "server_name": "Server 9",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fd-cnhd2/chunks.m3u8?is_vip=false&token=9e28d69dac566e058ecce519f17a8369031f5ad7&x-sign=11933845b62a0895e41a2b6b9efee77d&x-time=1782614760"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fd-cnhd2/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=11b7fc75d5b06637f26741ef01c4720b&x-time=1782616560"
                 },
                 {
                     "server_name": "Server 10",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fd-cnhd2/chunks.m3u8?is_vip=false&token=1782701205-Kv4cPTAAP5YTi-9e28d69dac566e058ecce519f17a8369031f5ad7-69d3185a4ddb343051e2471e7039b4ea"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fd-cnhd2/chunks.m3u8?is_vip=false&token=1782703001-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-452270b06b0b517e9989a062fce41c75"
                 },
                 {
                     "server_name": "Server 11",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fd-fhd/chunks.m3u8?is_vip=false&token=9e28d69dac566e058ecce519f17a8369031f5ad7&x-sign=0ce5ecff47c70a4e00c0189b72bad313&x-time=1782614760"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fd-fhd/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=b8b5c82c08e1ef6409ccec6ee83bfd70&x-time=1782616560"
                 },
                 {
                     "server_name": "Server 12",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fd-fhd/chunks.m3u8?is_vip=false&token=1782701206-Kv4cPTAAP5YTi-9e28d69dac566e058ecce519f17a8369031f5ad7-f91d7eb1228ea526c99a5415e12311d6"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fd-fhd/chunks.m3u8?is_vip=false&token=1782703002-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-b697f90d1242628eef2c8399ed8a7c3d"
                 }
             ]
         },
@@ -81,52 +87,1264 @@
             "Stream URL": [
                 {
                     "server_name": "Server 1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782701211-Kv4cPTAAP5YTi-9e28d69dac566e058ecce519f17a8369031f5ad7-22ff1a57847ea82939d1f801d4e13ca0"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782703007-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-f9ac0d85d127eccfe74f22f0f2917f3f"
                 },
                 {
                     "server_name": "Server 2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=9e28d69dac566e058ecce519f17a8369031f5ad7&x-sign=460161de445fe7095148eb5c5095a347&x-time=1782614760"
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=af12b9563ebb6ff3762ac789fd79d8b7&x-time=1782616560"
                 },
                 {
                     "server_name": "Server 3",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fe/chunks.m3u8?is_vip=false&token=9e28d69dac566e058ecce519f17a8369031f5ad7&x-sign=44cb457830b27edd6e2d3890ec7f489d&x-time=1782614760"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fe/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=3a9d411f01b56d9e7653d715ab6d87b9&x-time=1782616560"
                 },
                 {
                     "server_name": "Server 4",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fe/chunks.m3u8?is_vip=false&token=1782701212-Kv4cPTAAP5YTi-9e28d69dac566e058ecce519f17a8369031f5ad7-61d6e4faf35bcb28d0310831cfa2e7b0"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fe/chunks.m3u8?is_vip=false&token=1782703008-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-e241d634bf65ef1c2f24f88a96a84f07"
                 },
                 {
                     "server_name": "Server 5",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fe-hd/chunks.m3u8?is_vip=false&token=9e28d69dac566e058ecce519f17a8369031f5ad7&x-sign=db979ec0f5bae321de3e2b4b346ccb18&x-time=1782614760"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fe-hd/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=c2fc418774fec22c0376cf5cf4bd962e&x-time=1782616560"
                 },
                 {
                     "server_name": "Server 6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fe-hd/chunks.m3u8?is_vip=false&token=1782701213-Kv4cPTAAP5YTi-9e28d69dac566e058ecce519f17a8369031f5ad7-cc6874fed90ff6b523c321342e96ce6b"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fe-hd/chunks.m3u8?is_vip=false&token=1782703009-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-01dc1fdb74841efda9b1de49d5ab94a2"
                 },
                 {
                     "server_name": "Server 7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fe-cnhd/chunks.m3u8?is_vip=false&token=9e28d69dac566e058ecce519f17a8369031f5ad7&x-sign=f4e45c9f3f0bf9bbf185962966224afd&x-time=1782614760"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fe-cnhd/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=e12870fac811c808fa46dafa7062c7f9&x-time=1782616560"
                 },
                 {
                     "server_name": "Server 8",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fe-cnhd/chunks.m3u8?is_vip=false&token=1782701214-Kv4cPTAAP5YTi-9e28d69dac566e058ecce519f17a8369031f5ad7-10c685ea6c381693226927e48ce69355"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fe-cnhd/chunks.m3u8?is_vip=false&token=1782703010-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-4d6f50a695d9fba15eaa1cffb8408822"
                 },
                 {
                     "server_name": "Server 9",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fe-cnhd2/chunks.m3u8?is_vip=false&token=9e28d69dac566e058ecce519f17a8369031f5ad7&x-sign=8727c2d288e8c031c1c2886ca79f6c81&x-time=1782614760"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fe-cnhd2/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=2de794797ff65088333c0d5c768faf54&x-time=1782616560"
                 },
                 {
                     "server_name": "Server 10",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fe-cnhd2/chunks.m3u8?is_vip=false&token=1782701215-Kv4cPTAAP5YTi-9e28d69dac566e058ecce519f17a8369031f5ad7-9f07e84a1c1465b0bcc5edbda1f3f488"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fe-cnhd2/chunks.m3u8?is_vip=false&token=1782703011-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-66dea4c57706b1820ceb3020fbee2d73"
                 },
                 {
                     "server_name": "Server 11",
-                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fe-fhd/chunks.m3u8?is_vip=false&token=9e28d69dac566e058ecce519f17a8369031f5ad7&x-sign=fac3ec9e57df9f0d93911420ddbcb157&x-time=1782614760"
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fe-fhd/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=e4bc22c14d69d7ccc7df9cfddccf1864&x-time=1782616560"
                 },
                 {
                     "server_name": "Server 12",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fe-fhd/chunks.m3u8?is_vip=false&token=1782701215-Kv4cPTAAP5YTi-9e28d69dac566e058ecce519f17a8369031f5ad7-4f045b640e7440458248250670ed1d5a"
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520fe-fhd/chunks.m3u8?is_vip=false&token=1782703012-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-ec8ac136d756a6356e1c0c2e0fc21326"
                 }
             ]
         },
         {
+            "Category": "M25 Rabat",
+            "League": "M25 Rabat",
+            "Team 1 Name": "Adam Nizar Bouyacoub",
+            "Team 2 Name": "Aymane Tahiri",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Adam Nizar Bouyacoub VS Aymane Tahiri | M25 Rabat",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Adam_Nizar_Bouyacoub_VS_Aymane_Tahiri_M25_Rabat.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a40728f774cbee6e582cdef/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=13fb1f8f2b406422962ec53d6e116c9e&x-time=1782616560"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a40728f774cbee6e582cdef/chunks.m3u8?is_vip=false&token=1782703017-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-faa0eeecab13b5bbbe1e242d674423c7"
+                }
+            ]
+        },
+        {
+            "Category": "M25 Rabat",
+            "League": "M25 Rabat",
+            "Team 1 Name": "Taoufik Elgorch",
+            "Team 2 Name": "Oscar Baumgartner",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Taoufik Elgorch VS Oscar Baumgartner | M25 Rabat",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Taoufik_Elgorch_VS_Oscar_Baumgartner_M25_Rabat.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a40728fd8b0af885e191cf1/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=17161bed70fc427a1dcb055b726b8716&x-time=1782616620"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a40728fd8b0af885e191cf1/chunks.m3u8?is_vip=false&token=1782703023-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-dc3a2940de666e4102491c0a315b02ef"
+                }
+            ]
+        },
+        {
+            "Category": "M25 Ajaccio",
+            "League": "M25 Ajaccio",
+            "Team 1 Name": "Jules Gally",
+            "Team 2 Name": "Riccardo Ciulli",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Jules Gally VS Riccardo Ciulli | M25 Ajaccio",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Jules_Gally_VS_Riccardo_Ciulli_M25_Ajaccio.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a40728fce986c47407016f1/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=8a6b5a0db301ab9b91a9f0d834ef226f&x-time=1782616620"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a40728fce986c47407016f1/chunks.m3u8?is_vip=false&token=1782703028-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-f6356b498ae388872664aa01f17c7022"
+                }
+            ]
+        },
+        {
+            "Category": "M25 Ajaccio",
+            "League": "M25 Ajaccio",
+            "Team 1 Name": "Bastien Prod'homme",
+            "Team 2 Name": "Joris Piernot",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Bastien Prod'homme VS Joris Piernot | M25 Ajaccio",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bastien_Prod'homme_VS_Joris_Piernot_M25_Ajaccio.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a40728f8cf75300574dced7/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=6c322dc0978f3133e6c3e7cea6d17869&x-time=1782616620"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a40728f8cf75300574dced7/chunks.m3u8?is_vip=false&token=1782703034-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-dc7a945bdf38312d819e01f38014b063"
+                }
+            ]
+        },
+        {
+            "Category": "UTR Pro Newport Beach Women",
+            "League": "UTR Pro Newport Beach Women",
+            "Team 1 Name": "Mika Ikemori",
+            "Team 2 Name": "Emily Robertson",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Mika Ikemori VS Emily Robertson | UTR Pro Newport Beach Women",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mika_Ikemori_VS_Emily_Robertson_UTR_Pro_Newport_Beach_Women.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a40728f2eb310ffd1c7fc7e/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=2a3fa4d2ededbdc9c2f29a875dca1b6a&x-time=1782616620"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a40728f2eb310ffd1c7fc7e/chunks.m3u8?is_vip=false&token=1782703039-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-39161d8a8bd55122f80f0368476f4746"
+                }
+            ]
+        },
+        {
+            "Category": "W35 Aix-les-Bains",
+            "League": "W35 Aix-les-Bains",
+            "Team 1 Name": "Ashleigh Harvey",
+            "Team 2 Name": "Ginevra Montebruno",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Ashleigh Harvey VS Ginevra Montebruno | W35 Aix-les-Bains",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a408090074b83da014e92af/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=fde8e13864cd81ffc86255c9325e4e69&x-time=1782616620"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a408090074b83da014e92af/chunks.m3u8?is_vip=false&token=1782703045-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-9f498724d034947caad6cdf13714c6b5"
+                }
+            ]
+        },
+        {
+            "Category": "W35 Aix-les-Bains",
+            "League": "W35 Aix-les-Bains",
+            "Team 1 Name": "Romane Longueville",
+            "Team 2 Name": "Christina Bednarczyk",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Romane Longueville VS Christina Bednarczyk | W35 Aix-les-Bains",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a408090ebc5c3ef2c7d592d/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=2eebbf614bd465d75cb64eb550e99a61&x-time=1782616620"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a408090ebc5c3ef2c7d592d/chunks.m3u8?is_vip=false&token=1782703050-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-a6501b61a86a15b92eb43d83621b7537"
+                }
+            ]
+        },
+        {
+            "Category": "W35 Aix-les-Bains",
+            "League": "W35 Aix-les-Bains",
+            "Team 1 Name": "Sasha Zhan Choulet",
+            "Team 2 Name": "Ines Leon",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Sasha Zhan Choulet VS Ines Leon | W35 Aix-les-Bains",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a408090074b83da014e92b0/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=cc70287107b93bad3ee75f3607c1a58d&x-time=1782616620"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a408090074b83da014e92b0/chunks.m3u8?is_vip=false&token=1782703056-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-6ae479f057d71571022c8893203e959b"
+                }
+            ]
+        },
+        {
+            "Category": "W35 Aix-les-Bains",
+            "League": "W35 Aix-les-Bains",
+            "Team 1 Name": "Liv Boulard",
+            "Team 2 Name": "Emma Bousquet",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Liv Boulard VS Emma Bousquet | W35 Aix-les-Bains",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a408090d06bfc5094c219f3/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=28efdc755a2b825c31cc50e71e2af5ed&x-time=1782616620"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a408090d06bfc5094c219f3/chunks.m3u8?is_vip=false&token=1782703061-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-52387d76adddfea56e5a87c008c8a834"
+                }
+            ]
+        },
+        {
+            "Category": "W35 Aix-les-Bains",
+            "League": "W35 Aix-les-Bains",
+            "Team 1 Name": "Amy Stevens",
+            "Team 2 Name": "Tamara Bachmann",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Amy Stevens VS Tamara Bachmann | W35 Aix-les-Bains",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a4080907133406e4c2d4f31/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=9b54d8d9107a2dd8cb1436f54e8b847a&x-time=1782616620"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a4080907133406e4c2d4f31/chunks.m3u8?is_vip=false&token=1782703066-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-de7cfdb5d95744b8f0635052e58fd457"
+                }
+            ]
+        },
+        {
+            "Category": "W35 Aix-les-Bains",
+            "League": "W35 Aix-les-Bains",
+            "Team 1 Name": "Anastasia Bertacchi",
+            "Team 2 Name": "Kamila Kashaeva",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Anastasia Bertacchi VS Kamila Kashaeva | W35 Aix-les-Bains",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a408090aed4bb3db0c929be/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=2b961c38fdecc44bcd33e8c8c3d080ad&x-time=1782616620"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a408090aed4bb3db0c929be/chunks.m3u8?is_vip=false&token=1782703072-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-513d9ecb30a5c313dbcf6503b314d7ad"
+                }
+            ]
+        },
+        {
+            "Category": "W35 Aix-les-Bains",
+            "League": "W35 Aix-les-Bains",
+            "Team 1 Name": "Paula Ormaechea",
+            "Team 2 Name": "Alice Battesti",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Paula Ormaechea VS Alice Battesti | W35 Aix-les-Bains",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a408090bd8b58515078dcbe/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=562937f3f788a23614f682970e160c4d&x-time=1782616620"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a408090bd8b58515078dcbe/chunks.m3u8?is_vip=false&token=1782703077-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-080e6576f91331a8157e701e7718bd75"
+                }
+            ]
+        },
+        {
+            "Category": "W35 Aix-les-Bains",
+            "League": "W35 Aix-les-Bains",
+            "Team 1 Name": "Meline Lataste",
+            "Team 2 Name": "Hanna Bougouffa",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Meline Lataste VS Hanna Bougouffa | W35 Aix-les-Bains",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a408090f65afa224ed565db/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=87877bf8f28198b735998f23f1507849&x-time=1782616680"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a408090f65afa224ed565db/chunks.m3u8?is_vip=false&token=1782703083-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-91c9b33ea7cf37cbd77f891abb6c7d54"
+                }
+            ]
+        },
+        {
+            "Category": "W35 Aix-les-Bains",
+            "League": "W35 Aix-les-Bains",
+            "Team 1 Name": "Zoe Ulrich",
+            "Team 2 Name": "Alice Soulie",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Zoe Ulrich VS Alice Soulie | W35 Aix-les-Bains",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a408090fd12df158c9d5a67/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=e7cf495e8cef14dc07a8806bc1803a1d&x-time=1782616680"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a408090fd12df158c9d5a67/chunks.m3u8?is_vip=false&token=1782703088-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-759eb3351fdf5caf3f7f27f165c8adf4"
+                }
+            ]
+        },
+        {
+            "Category": "Challenger Cary",
+            "League": "Challenger Cary",
+            "Team 1 Name": "Alex Rybakov",
+            "Team 2 Name": "Hiroki Moriya",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Alex Rybakov VS Hiroki Moriya | Challenger Cary",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a408090ebc5c3ef2c7d5930/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=a94daf98615593a682b6a32e4adc4f92&x-time=1782616680"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a408090ebc5c3ef2c7d5930/chunks.m3u8?is_vip=false&token=1782703094-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-373133038c4c1d03216b63a7bdfbff6c"
+                }
+            ]
+        },
+        {
+            "Category": "W35 Aix-les-Bains",
+            "League": "W35 Aix-les-Bains",
+            "Team 1 Name": "Daria Yesypchuk",
+            "Team 2 Name": "Carla Grignac",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Daria Yesypchuk VS Carla Grignac | W35 Aix-les-Bains",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a408090005675444161de2f/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=6b3f20c7eca0d27c0b51e399ff7cf688&x-time=1782616680"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a408090005675444161de2f/chunks.m3u8?is_vip=false&token=1782703099-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-90c93fefbe5db1a67f4600cb85edf6fb"
+                }
+            ]
+        },
+        {
+            "Category": "W35 Aix-les-Bains",
+            "League": "W35 Aix-les-Bains",
+            "Team 1 Name": "Sophia Biolay",
+            "Team 2 Name": "Salome Boulegroun",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Sophia Biolay VS Salome Boulegroun | W35 Aix-les-Bains",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a408090074b83da014e92b1/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=a29b9b4d687abe9f534486bba964ac29&x-time=1782616680"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a408090074b83da014e92b1/chunks.m3u8?is_vip=false&token=1782703104-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-ac2fb1af9f504f4643de1adc305f8fcb"
+                }
+            ]
+        },
+        {
+            "Category": "W35 Aix-les-Bains",
+            "League": "W35 Aix-les-Bains",
+            "Team 1 Name": "Lola Collin",
+            "Team 2 Name": "Milena Ciocan",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Lola Collin VS Milena Ciocan | W35 Aix-les-Bains",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a408090ebc5c3ef2c7d592f/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=0a54888a4601bf6e9f149da0812970b6&x-time=1782616680"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a408090ebc5c3ef2c7d592f/chunks.m3u8?is_vip=false&token=1782703109-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-1f1109b6610f26b8161e3d49725080ee"
+                }
+            ]
+        },
+        {
+            "Category": "W35 Aix-les-Bains",
+            "League": "W35 Aix-les-Bains",
+            "Team 1 Name": "Camilla Gennaro",
+            "Team 2 Name": "Charlotte Benedetti Ravon",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Camilla Gennaro VS Charlotte Benedetti Ravon | W35 Aix-les-Bains",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a408090f59507a97aeef059/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=ea60ae23926a9b76f3c3932b0642e1d1&x-time=1782616680"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a408090f59507a97aeef059/chunks.m3u8?is_vip=false&token=1782703115-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-a73f6f2d4dabf7b10115fc5ffaab5d0e"
+                }
+            ]
+        },
+        {
+            "Category": "W35 Aix-les-Bains",
+            "League": "W35 Aix-les-Bains",
+            "Team 1 Name": "Hena Cehajic",
+            "Team 2 Name": "Olympe Lancelot",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Hena Cehajic VS Olympe Lancelot | W35 Aix-les-Bains",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a408090818b53788c25dad2/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=0f6fef9ac2ed47bd63056495c25cfac8&x-time=1782616680"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a408090818b53788c25dad2/chunks.m3u8?is_vip=false&token=1782703120-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-bdadfc9634f8a02b2d77f94c5b1610ca"
+                }
+            ]
+        },
+        {
+            "Category": "M25 Rabat",
+            "League": "M25 Rabat",
+            "Team 1 Name": "Cristian Kouchnarev",
+            "Team 2 Name": "Sohaib Safi",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Cristian Kouchnarev VS Sohaib Safi | M25 Rabat",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cristian_Kouchnarev_VS_Sohaib_Safi_M25_Rabat.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a40728f3c9c35419b95b3e3/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=19c1bd27af7cf332750aa1c8bcd6b0e1&x-time=1782616680"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a40728f3c9c35419b95b3e3/chunks.m3u8?is_vip=false&token=1782703125-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-0342c51d300669fbbd38f5a1949a01c1"
+                }
+            ]
+        },
+        {
+            "Category": "M25 Ajaccio",
+            "League": "M25 Ajaccio",
+            "Team 1 Name": "Luc Fomba",
+            "Team 2 Name": "Louis Bourn",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Luc Fomba VS Louis Bourn | M25 Ajaccio",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Luc_Fomba_VS_Louis_Bourn_M25_Ajaccio.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a40728f57b14e876d579155/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=127f441f59f890272aecb5cceb5ae306&x-time=1782616680"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a40728f57b14e876d579155/chunks.m3u8?is_vip=false&token=1782703131-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-16a61d7a0bd517aa759ad6fecd4f0c39"
+                }
+            ]
+        },
+        {
+            "Category": "M25 Rabat",
+            "League": "M25 Rabat",
+            "Team 1 Name": "Mehdi T Alaoui",
+            "Team 2 Name": "Oliwer Wierzbicki",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Mehdi T Alaoui VS Oliwer Wierzbicki | M25 Rabat",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mehdi_T_Alaoui_VS_Oliwer_Wierzbicki_M25_Rabat.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a40728f945e9dbcc77c8a4a/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=119a8afca7c2f6fe8e7c83576c87bb81&x-time=1782616680"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a40728f945e9dbcc77c8a4a/chunks.m3u8?is_vip=false&token=1782703136-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-bc29bdcb746c6653aa7cb9d477f7d62c"
+                }
+            ]
+        },
+        {
+            "Category": "MMA",
+            "League": "MMA",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "MMA MEXICO 8 | MMA",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/MMA_MEXICO_8_MMA.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/18/chunks.m3u8?is_vip=false&token=1782703141-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-194755e5c4f3e9f7d1328ba7561c644e"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/18/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=87d7f5d38f168dec884bd7169ca30b14&x-time=1782616740"
+                }
+            ]
+        },
+        {
+            "Category": "Australian Darts Association",
+            "League": "Australian Darts Association",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "Weekend 4, Day 3 | Australian Darts Association",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Weekend_4%2C_Day_3_Australian_Darts_Association.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782703146-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-a4ed1dc399a753fa585dbeff79ecb4ec"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=ecffd5b242ff40614690ca1184fc25f2&x-time=1782616740"
+                }
+            ]
+        },
+        {
+            "Category": "USL League Two",
+            "League": "USL League Two",
+            "Team 1 Name": "Almaden",
+            "Team 2 Name": "Project 51O",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23109.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/18908.png",
+            "Match Title": "Almaden VS Project 51O | USL League Two",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Almaden_VS_Project_51O_USL_League_Two.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5df/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=c6143549b3eaff8b5437cdaf87b38125&x-time=1782616740"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5df/chunks.m3u8?is_vip=false&token=1782703152-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-c1bd3cac9b8b1fd7054a09e8c2f53f78"
+                }
+            ]
+        },
+        {
+            "Category": "USL League Two",
+            "League": "USL League Two",
+            "Team 1 Name": "Flatirons Rush",
+            "Team 2 Name": "Colorado ISA",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/18895.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/18891.png",
+            "Match Title": "Flatirons Rush VS Colorado ISA | USL League Two",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Flatirons_Rush_VS_Colorado_ISA_USL_League_Two.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5de/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=bf97ab5b674f4c07b7ff4fc9bfac26a9&x-time=1782616740"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5de/chunks.m3u8?is_vip=false&token=1782703158-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-864c4c715de05ef465a3a10e7a791586"
+                }
+            ]
+        },
+        {
+            "Category": "USL W League",
+            "League": "USL W League",
+            "Team 1 Name": "Sta Clarita Blue Heat W",
+            "Team 2 Name": "AMSG W",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/25929.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/25934.png",
+            "Match Title": "Sta Clarita Blue Heat W VS AMSG W | USL W League",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sta_Clarita_Blue_Heat_W_VS_AMSG_W_USL_W_League.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5dd/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=982692944c15c14a1763ab5786ea6199&x-time=1782616740"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5dd/chunks.m3u8?is_vip=false&token=1782703163-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-2925164ce4fcd634c9d9304ac74ee432"
+                }
+            ]
+        },
+        {
+            "Category": "Friendlies Clubs",
+            "League": "Friendlies Clubs",
+            "Team 1 Name": "FC Juarez",
+            "Team 2 Name": "Atlante FC",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2298.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2312.png",
+            "Match Title": "FC Juarez VS Atlante FC | Friendlies Clubs",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC_Juarez_VS_Atlante_FC_Friendlies_Clubs.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b147/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=633d4f48d3012fa39ca2c903734d8b7c&x-time=1782616740"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b147/chunks.m3u8?is_vip=false&token=1782703168-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-2b8baa5dfedb2d643b977518ac0f0177"
+                }
+            ]
+        },
+        {
+            "Category": "M15 Slovenska Bistrica",
+            "League": "M15 Slovenska Bistrica",
+            "Team 1 Name": "Lucio Ratti",
+            "Team 2 Name": "Filip Jeff Planinsek",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Lucio Ratti VS Filip Jeff Planinsek | M15 Slovenska Bistrica",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lucio_Ratti_VS_Filip_Jeff_Planinsek_M15_Slovenska_Bistrica.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a4064a24e6abdac61f409ef/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=76da9cfc1dfb03be7459f36fdc5958b9&x-time=1782616740"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a4064a24e6abdac61f409ef/chunks.m3u8?is_vip=false&token=1782703174-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-568a6ef3c953dc7a9145991997a53b68"
+                }
+            ]
+        },
+        {
+            "Category": "USL League Two",
+            "League": "USL League Two",
+            "Team 1 Name": "Midlakes United",
+            "Team 2 Name": "Ballard",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23120.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/18882.png",
+            "Match Title": "Midlakes United VS Ballard | USL League Two",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Midlakes_United_VS_Ballard_USL_League_Two.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5e1/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=81eccbc7778840d2e3b47081dfd03410&x-time=1782616740"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5e1/chunks.m3u8?is_vip=false&token=1782703180-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-bc4dd46c66c09372ba3482d8874af001"
+                }
+            ]
+        },
+        {
+            "Category": "Baseball",
+            "League": "MLB",
+            "Team 1 Name": "Oakland Athletics",
+            "Team 2 Name": "Los Angeles Angels",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/3a67aa4cf42ac4e04e7fa7fa323b03d1.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/a0b77a2499cfc28afddc193eb19448a7.png",
+            "Match Title": "Oakland Athletics VS Los Angeles Angels | MLB",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Oakland_Athletics_VS_Los_Angeles_Angels_MLB.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55847/720p/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=c7c9b2d8eb18b6440180002685d429cc&x-time=1782616740"
+                }
+            ]
+        },
+        {
+            "Category": "MMA",
+            "League": "MMA",
+            "Team 1 Name": "",
+            "Team 2 Name": "",
+            "Team 1 Logo": "",
+            "Team 2 Logo": "",
+            "Match Title": "URIJAH FABER'S A-1 COMBAT 36 | MMA",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/URIJAH_FABER'S_A-1_COMBAT_36_MMA.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1782703189-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-c487cc9bb7da1e6b56d9e142ad2a2ebe"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=04d723e67b93867305aec03d865648fa&x-time=1782616740"
+                }
+            ]
+        },
+        {
+            "Category": "USL League Two",
+            "League": "USL League Two",
+            "Team 1 Name": "Davis Legacy",
+            "Team 2 Name": "Sportivo San Juan",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/18893.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10490.png",
+            "Match Title": "Davis Legacy VS Sportivo San Juan | USL League Two",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Davis_Legacy_VS_Sportivo_San_Juan_USL_League_Two.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5e5/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=21ca4c547955c08e711beed88cc81edd&x-time=1782616740"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5e5/chunks.m3u8?is_vip=false&token=1782703196-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-a3010dad8a8e591a6b922a7d61192e25"
+                }
+            ]
+        },
+        {
+            "Category": "M25 Ajaccio",
+            "League": "M25 Ajaccio",
+            "Team 1 Name": "Timothe Barthes",
+            "Team 2 Name": "Sacha Grandvincent",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Timothe Barthes VS Sacha Grandvincent | M25 Ajaccio",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Timothe_Barthes_VS_Sacha_Grandvincent_M25_Ajaccio.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a40728f6618c8c6841b715f/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=af5dfcd7725d63ecf97bd8e85e571cab&x-time=1782616800"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a40728f6618c8c6841b715f/chunks.m3u8?is_vip=false&token=1782703201-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-1e21e6a427c1456662b67f6b2edcc5c6"
+                }
+            ]
+        },
+        {
+            "Category": "USL League Two",
+            "League": "USL League Two",
+            "Team 1 Name": "Redlands",
+            "Team 2 Name": "Stars FC",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/21287.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/25951.png",
+            "Match Title": "Redlands VS Stars FC | USL League Two",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Redlands_VS_Stars_FC_USL_League_Two.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5e4/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=49b19f7613563c7f6045a220842e196b&x-time=1782616800"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5e4/chunks.m3u8?is_vip=false&token=1782703207-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-f54f00b9a48e731c1e4bd9f4163e609d"
+                }
+            ]
+        },
+        {
+            "Category": "USL W League",
+            "League": "USL W League",
+            "Team 1 Name": "Monterey Bay FC W",
+            "Team 2 Name": "Pleasanton Rage W",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/27612.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23918.png",
+            "Match Title": "Monterey Bay FC W VS Pleasanton Rage W | USL W League",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4047ed57b14e876d55ddb9/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=e1091a09e85711ed05ac8c5dd0ca6a05&x-time=1782616800"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4047ed57b14e876d55ddb9/chunks.m3u8?is_vip=false&token=1782703212-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-3a9bd2f4426ed03aaeca260389dab23e"
+                }
+            ]
+        },
+        {
+            "Category": "MLS Next Pro",
+            "League": "MLS Next Pro",
+            "Team 1 Name": "Ventura County",
+            "Team 2 Name": "Real Monarchs",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3997.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4012.png",
+            "Match Title": "Ventura County VS Real Monarchs | MLS Next Pro",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ventura_County_VS_Real_Monarchs_MLS_Next_Pro.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5e3/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=368d6cf579faf3e8ea60118c1ce32f6e&x-time=1782616800"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5e3/chunks.m3u8?is_vip=false&token=1782703217-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-ef448709e9ca46ebb5e12549d45084ff"
+                }
+            ]
+        },
+        {
+            "Category": "M25 Rabat",
+            "League": "M25 Rabat",
+            "Team 1 Name": "Sam Kydd Baumgartner",
+            "Team 2 Name": "Fedor Dorokhov",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Sam Kydd Baumgartner VS Fedor Dorokhov | M25 Rabat",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sam_Kydd_Baumgartner_VS_Fedor_Dorokhov_M25_Rabat.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a40728f774cbee6e582cdee/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=4565e2daa5cdf37c0226d658b2cdbc1b&x-time=1782616800"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a40728f774cbee6e582cdee/chunks.m3u8?is_vip=false&token=1782703223-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-56082eb134a35c1732336c9e7f152f9a"
+                }
+            ]
+        },
+        {
+            "Category": "M25 Ajaccio",
+            "League": "M25 Ajaccio",
+            "Team 1 Name": "Robin Eldin",
+            "Team 2 Name": "Jake Fellows",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Robin Eldin VS Jake Fellows | M25 Ajaccio",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Robin_Eldin_VS_Jake_Fellows_M25_Ajaccio.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a40728fd8b0af885e191cf0/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=dc65ff747cc390b40ea2c7ef41370687&x-time=1782616800"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a40728fd8b0af885e191cf0/chunks.m3u8?is_vip=false&token=1782703228-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-5c15d92f2a7d8e0a6b18f8d7bee36e1c"
+                }
+            ]
+        },
+        {
+            "Category": "M25 Rabat",
+            "League": "M25 Rabat",
+            "Team 1 Name": "Nicolas Kobelt",
+            "Team 2 Name": "Gioele Cerelli",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Nicolas Kobelt VS Gioele Cerelli | M25 Rabat",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nicolas_Kobelt_VS_Gioele_Cerelli_M25_Rabat.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a40728f945e9dbcc77c8a49/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=fab804f68a097e029f3b622e4455311c&x-time=1782616800"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a40728f945e9dbcc77c8a49/chunks.m3u8?is_vip=false&token=1782703233-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-40c04a513ea7598e29caf5622554de63"
+                }
+            ]
+        },
+        {
+            "Category": "M25 Rabat",
+            "League": "M25 Rabat",
+            "Team 1 Name": "Nishith Naveen",
+            "Team 2 Name": "Anup Bangargi",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Nishith Naveen VS Anup Bangargi | M25 Rabat",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nishith_Naveen_VS_Anup_Bangargi_M25_Rabat.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a40728fa5363061598e0be7/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=fa47ebda31c26cffbbe17dd26251a924&x-time=1782616800"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a40728fa5363061598e0be7/chunks.m3u8?is_vip=false&token=1782703239-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-337428dbbc6fede5737aae72d4506a65"
+                }
+            ]
+        },
+        {
+            "Category": "M25 Rabat",
+            "League": "M25 Rabat",
+            "Team 1 Name": "Ricard Rodolfo Garavi Yepez",
+            "Team 2 Name": "Ali Alshati",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Ricard Rodolfo Garavi Yepez VS Ali Alshati | M25 Rabat",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ricard_Rodolfo_Garavi_Yepez_VS_Ali_Alshati_M25_Rabat.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a40728f32c497f673509bd9/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=27b1eaa256d00beed1a893346a44f8ee&x-time=1782616800"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a40728f32c497f673509bd9/chunks.m3u8?is_vip=false&token=1782703244-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-d6eac9ae1cfebc4bff1012e58864daf6"
+                }
+            ]
+        },
+        {
+            "Category": "M25 Rabat",
+            "League": "M25 Rabat",
+            "Team 1 Name": "Ismail Ouled Abbou",
+            "Team 2 Name": "Pablo De La Cierva Sanchez",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Ismail Ouled Abbou VS Pablo De La Cierva Sanchez | M25 Rabat",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ismail_Ouled_Abbou_VS_Pablo_De_La_Cierva_Sanchez_M25_Rabat.jpg",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a40728f6618c8c6841b715e/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=78f544b71dbe05986a28cfdb0ba9d388&x-time=1782616800"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a40728f6618c8c6841b715e/chunks.m3u8?is_vip=false&token=1782703250-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-20c6ff0e1006a1115a1c3748892cc39e"
+                }
+            ]
+        },
+        {
+            "Category": "W35 Aix-les-Bains",
+            "League": "W35 Aix-les-Bains",
+            "Team 1 Name": "Suhani Patil",
+            "Team 2 Name": "Hajar Crinebouch",
+            "Team 1 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Team 2 Logo": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+            "Match Title": "Suhani Patil VS Hajar Crinebouch | W35 Aix-les-Bains",
+            "Match Poster": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+            "Match Status": "Live",
+            "Start Time": "Live Now",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": [
+                {
+                    "server_name": "Server 1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a408090074b83da014e92b2/chunks.m3u8?is_vip=false&token=2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612&x-sign=62f5f1882454fdd1f360bee0cc993f88&x-time=1782616800"
+                },
+                {
+                    "server_name": "Server 2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a408090074b83da014e92b2/chunks.m3u8?is_vip=false&token=1782703255-Kv4cPTAAP5YTi-2ea47bbbbb2d7d72c16a3b3d83ce4a6d3dc80612-4ea6a1d300f3285b55a27c15b047dfe7"
+                }
+            ]
+        },
+        {
+            "Category": "World Cup",
+            "League": "World Cup",
+            "Team 1 Name": "TBA",
+            "Team 2 Name": "TBA",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/9d1ad5fb68f5e7f5576a92205e012cf5.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/teams/9d1ad5fb68f5e7f5576a92205e012cf5.png",
+            "Match Title": "TBA VS TBA | World Cup",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/TBA_VS_TBA_World_Cup.jpg",
+            "Match Status": "Upcoming",
+            "Start Time": "1:00 AM 29-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "World Cup",
+            "League": "World Cup",
+            "Team 1 Name": "Brazil",
+            "Team 2 Name": "Japan",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/12.png",
+            "Match Title": "Brazil VS Japan | World Cup",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil_VS_Japan_World_Cup.jpg",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 PM 29-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "World Cup",
+            "League": "World Cup",
+            "Team 1 Name": "Germany",
+            "Team 2 Name": "Paraguay",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/25.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2380.png",
+            "Match Title": "Germany VS Paraguay | World Cup",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany_VS_Paraguay_World_Cup.jpg",
+            "Match Status": "Upcoming",
+            "Start Time": "2:30 AM 30-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "World Cup",
+            "League": "World Cup",
+            "Team 1 Name": "Netherlands",
+            "Team 2 Name": "Morocco",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1118.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/31.png",
+            "Match Title": "Netherlands VS Morocco | World Cup",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Netherlands_VS_Morocco_World_Cup.jpg",
+            "Match Status": "Upcoming",
+            "Start Time": "7:00 AM 30-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "World Cup",
+            "League": "World Cup",
+            "Team 1 Name": "France",
+            "Team 2 Name": "Sweden",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5.png",
+            "Match Title": "France VS Sweden | World Cup",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/France_VS_Sweden_World_Cup.jpg",
+            "Match Status": "Upcoming",
+            "Start Time": "3:00 AM 01-07-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "World Cup",
+            "League": "World Cup",
+            "Team 1 Name": "Argentina",
+            "Team 2 Name": "Cape Verde Islands",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/26.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1533.png",
+            "Match Title": "Argentina VS Cape Verde Islands | World Cup",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Argentina_VS_Cape_Verde_Islands_World_Cup.jpg",
+            "Match Status": "Upcoming",
+            "Start Time": "4:00 AM 04-07-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "Tasmania NPL",
+            "Team 1 Name": "Launceston City",
+            "Team 2 Name": "South East Utd.",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/14103.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/27675.png",
+            "Match Title": "Launceston City VS South East Utd. | Tasmania NPL",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Launceston_City_VS_South_East_Utd._Tasmania_NPL.jpg",
+            "Match Status": "Upcoming",
+            "Start Time": "10:30 AM 28-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "Tasmania NPL",
+            "Team 1 Name": "Kingborough Lions",
+            "Team 2 Name": "Devonport City",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/14102.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/14100.png",
+            "Match Title": "Kingborough Lions VS Devonport City | Tasmania NPL",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kingborough_Lions_VS_Devonport_City_Tasmania_NPL.jpg",
+            "Match Status": "Upcoming",
+            "Start Time": "10:30 AM 28-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        },
+        {
+            "Category": "Football",
+            "League": "NNSW League 1",
+            "Team 1 Name": "Wallsend Red Devils",
+            "Team 2 Name": "Singleton Strikers",
+            "Team 1 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23506.png",
+            "Team 2 Logo": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23503.png",
+            "Match Title": "Wallsend Red Devils VS Singleton Strikers | NNSW League 1",
+            "Match Poster": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wallsend_Red_Devils_VS_Singleton_Strikers_NNSW_League_1.jpg",
+            "Match Status": "Upcoming",
+            "Start Time": "11:00 AM 28-06-2026",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+            "Referer": "https://iframe.rumsport10.live/",
+            "Stream URL": []
+        }
+    ]
+}
